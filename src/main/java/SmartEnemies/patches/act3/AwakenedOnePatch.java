@@ -23,7 +23,7 @@ public class AwakenedOnePatch {
             if (moveHistory.size() == 0 || moveHistory.get(moveHistory.size() - 1) == ATTACK_MULTI1) {
                 __instance.setMove(ATTACK_1, Intent.ATTACK, __instance.damage.get(0).base);
             } else {
-                __instance.setMove(AwakenedOne.MOVES[0], ATTACK_MULTI1, Intent.ATTACK, __instance.damage.get(1).base, 3, true);
+                __instance.setMove(AwakenedOne.MOVES[0], ATTACK_MULTI1, Intent.ATTACK, __instance.damage.get(1).base, 4, true);
             }
         } else {
             if (___firstTurn) {
