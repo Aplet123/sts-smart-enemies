@@ -18,9 +18,9 @@
 3. Gain 4 Strength/Apply 2 Weak
 4. Repeat 1-3
 ### Acid Slime (Medium/Large)
-1. Attack for 18
+1. Attack for 12/18
 2. Attack for 8/12 + Shuffle 1/2 Slimed into discard pile
-3. Repeat 1-3
+3. Repeat 1-2
 ### Spike Slime (Medium/Large)
 1. Attack for 10/18 + Shuffle 1/2 Slimed into discard pile
 2. Attack for 10/18 + Shuffle 1/2 Slimed into discard pile
