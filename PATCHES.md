@@ -172,7 +172,7 @@ When a Darkling dies, it spends a turn doing nothing, then spends a turn revivin
 7. Repeat 5-6
 ### Spire Growth
 - If the player is not constricted and the last move wasn't constrict: Apply 12 Constricted
-- Otherwise: Attack for 25
+- Otherwise: Attack for 25, unless this is the 3rd attack in a row, in which case attack for 18 instead
 ### Orb Walker
 1. Attack for 11 + Shuffle 1 Burn into draw pile + Shuffle 1 Burn into discard pile
 2. Repeat 1
